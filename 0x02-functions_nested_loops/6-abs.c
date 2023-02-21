@@ -3,6 +3,7 @@
 /**
  * _abs - prints absolute value
  *
+ * @n: interger to be checked
  * Return: Always 0 (success)
  */
 int _abs(int n)
