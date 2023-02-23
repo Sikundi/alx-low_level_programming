@@ -1,12 +1,12 @@
 #include "main.h"
 
 /**
- * more_numbers - printd numbers many times
+ * more_numbers - prints numbers many times
  *
  */
 void more_numbers(void)
 {
-	int count, num;
+	int num, count;
 
 	for (count = 0; count <= 9; count++)
 	{
