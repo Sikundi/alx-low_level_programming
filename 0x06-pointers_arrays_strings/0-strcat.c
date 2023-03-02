@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * strcat - concatenate(arrange/link) two strings
+ * _strcat - concatenate(arrange/link) two strings
  * @dest: first character
  * @src: second character
  * Return: A pointer resulting string dest
