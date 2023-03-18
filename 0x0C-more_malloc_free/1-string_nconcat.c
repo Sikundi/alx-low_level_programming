@@ -2,9 +2,10 @@
 #include <stdlib.h>
 
 /**
-* atring_nconcat - funcion that concatenates two strings
+* string_nconcat - funcion that concatenates two strings
 * @s1:first string
 * @s2: second string
+* @n: maximum number of bytes to be concatenated
 *
 * Return: A pointer to concatenated string otherwise NULL
 */
@@ -36,6 +37,6 @@ char *string_nconcat(char *s1, char *s2, unsigned int n)
 		con[len++] = s2[i];
 
 	con[len] = '\0';
-	
+
 	return (con);
 }
