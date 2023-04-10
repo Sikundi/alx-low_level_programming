@@ -1,7 +1,7 @@
 # Low-Level Programming - Data Structures, Algorithms, Linux/Unix System Programming
 
 This repository contains programs written for the low-level programming and
-algorithm track at Holberton School. In these projects, which  occurred
+algorithm track at ALX. In these projects, which  occurred
 throughout the duration of the Year 1 curriculum, I learned about data
 structures, algorithms, and other low-level programming concepts while
 working in the C language. The specific list of projects contained follows:
@@ -22,3 +22,7 @@ working in the C language. The specific list of projects contained follows:
 * [0x0E. C - Structures, typedef](./0x0E-structures_typedef)
 * [0x0F. C - Function pointers](./0x0F-function_pointers)
 * [0x10. C - Variadic functions](./0x10-variadic_functions)
+* [0x12. C - Singly linked lists](./0x12-singly_linked_lists)
+* [0x13. C - More singly linked lists](./0x13-more_singly_linked_lists)
+* [0x14. C - Bit manipulation](./0x14-bit_manipulaton)
+* [0x15. C - File I/O](./0x15-file_io)
